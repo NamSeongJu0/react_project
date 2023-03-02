@@ -1,0 +1,37 @@
+* {
+  text-align: center;
+}
+
+.slider {
+
+  height: 500px;
+
+  background-image: url('../public/img/slider.jpg');
+
+  background-size: cover;
+
+  background-position: center;
+
+}
+
+
+.none {
+  width: 80%;
+  height: 300px;
+  margin: 50% auto;
+  background-color: lightgrey;
+  color: rgb(250, 22, 22);
+  text-align: center;
+  line-height: 300px;
+  font-size: 5rem;
+}
+
+.btn-primary {
+  background-color: antiquewhite;
+  color: yellowgreen;
+}
+
+p {
+  font-weight: 500;
+  font-size: 15px;
+}
