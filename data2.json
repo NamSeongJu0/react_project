@@ -1,0 +1,29 @@
+[
+    {
+        "id": 4,
+        "name": "LOGI DOCK",
+        "price": 130000,
+        "imgUrl": "img/pdimg/pd4.webp",
+        "content": "미팅 컨트롤 및 스피커폰을 한번에",
+        "info": ""
+    },
+    
+    {
+        "id": 5,
+        "name": "MX MASTER 3S",
+        "price": 98000,
+        "imgUrl": "img/pdimg/pd5.webp",
+        "content": "최고급 무선 마우스",
+        "info": ""
+    },
+    
+    {
+        "id": 6,
+        "name": "MX MECHANICAL",
+        "price": 128000,
+        "imgUrl": "img/pdimg/pd6.webp",
+        "content": "무선 일루미네이티드 퍼포먼스 키보드",
+        "info": ""
+    }
+]
+

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 7,
+        "name": "MeetUp",
+        "price": 155000,
+        "imgUrl": "img/pdimg/pd7.webp",
+        "content": "소형 회의실과 허들룸을 위한 올인원 캠",
+        "info": ""
+    },
+    
+    {
+        "id": 8,
+        "name": "CIRCLE VIEW CAMERA",
+        "price": 225000,
+        "imgUrl": "img/pdimg/pd8.webp",
+        "content": "업계 최고 수준의 로지텍 TrueView 비디오를 지원",
+        "info": ""
+    },
+    
+    {
+        "id": 9,
+        "name": "SPOTLIGHT 프리젠터",
+        "price": 30000,
+        "imgUrl": "img/pdimg/pd9.webp",
+        "content": "대면, 가상 이 둘의 조합을 한번에",
+        "info": ""
+    }
+]
+
+
