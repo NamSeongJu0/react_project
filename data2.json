@@ -1,6 +1,6 @@
 [
     {
-        "id": 4,
+        "id": 3,
         "name": "LOGI DOCK",
         "price": 130000,
         "imgUrl": "img/pdimg/pd4.webp",
@@ -9,7 +9,7 @@
     },
     
     {
-        "id": 5,
+        "id": 4,
         "name": "MX MASTER 3S",
         "price": 98000,
         "imgUrl": "img/pdimg/pd5.webp",
@@ -18,7 +18,7 @@
     },
     
     {
-        "id": 6,
+        "id": 5,
         "name": "MX MECHANICAL",
         "price": 128000,
         "imgUrl": "img/pdimg/pd6.webp",

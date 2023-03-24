@@ -1,6 +1,6 @@
 [
     {
-        "id": 7,
+        "id": 6,
         "name": "MeetUp",
         "price": 155000,
         "imgUrl": "img/pdimg/pd7.webp",
@@ -9,7 +9,7 @@
     },
     
     {
-        "id": 8,
+        "id": 7,
         "name": "CIRCLE VIEW CAMERA",
         "price": 225000,
         "imgUrl": "img/pdimg/pd8.webp",
@@ -18,7 +18,7 @@
     },
     
     {
-        "id": 9,
+        "id": 8,
         "name": "SPOTLIGHT 프리젠터",
         "price": 30000,
         "imgUrl": "img/pdimg/pd9.webp",
